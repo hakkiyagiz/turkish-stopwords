@@ -5,7 +5,7 @@ This project is created to collect the all stopwords which needed in a single ar
 
 ## Summary
 
-This collection of words is compiled from [6 different sources](src/lib/stopwords/sources.md) and reduced to 472 unique words.
+This collection of words are compiled from [6 different sources](src/lib/stopwords/sources.md) and reduced to 472 unique words.
 
 ## Installing
 
